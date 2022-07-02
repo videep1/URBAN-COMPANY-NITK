@@ -1,6 +1,8 @@
 # UrbanCompanyNITK
-
 ## How to run the project
+- The project is hosted at [here](https://urbancompany-nitk.herokuapp.com/)
+
+## How to run the project locally
 1. Create a virtual environment and activate it.
 2. `pip3 install -r requirements.txt`
 3. Create a database named `UCDB` locally using mysql
